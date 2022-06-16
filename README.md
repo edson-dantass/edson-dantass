@@ -25,5 +25,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
+<p>
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=edson-dantass&show_icons=true&theme=tokyonight" alt="Edson Dantas stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-dantass&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" alt="Edson Dantas Top Langs"/>
+ </p>
