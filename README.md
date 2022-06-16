@@ -3,9 +3,10 @@
 >  Estou sempre estudando JavaScript, ReactJS, TypeScript, NodeJS
 
 🔭 Atualmente estou trabalhando na [Descartes/GreenMile](https://greenmile.com/)
+
 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
---
+<br>
 
 ## 🚀 Minhas Skills
 
@@ -21,9 +22,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
---
+<br>
 
-## ⭐ Informações sobre minha conta GitHub
+## 💬 Informações sobre minha conta GitHub
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edson-dantass&show_icons=true&theme=tokyonight" alt="Edson Dantas stats"/>
