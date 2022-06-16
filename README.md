@@ -20,4 +20,5 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edson-dantass&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edson-dantass&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edson-dantass&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
