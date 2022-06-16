@@ -2,9 +2,9 @@
 
 >  Estou sempre estudando JavaScript, ReactJS, TypeScript, NodeJS
 
-🔭 Atualmente estou trabalhando na [Descartes/GreenMile](https://greenmile.com/)
+- 🔭 Atualmente estou trabalhando na [Descartes/GreenMile](https://greenmile.com/)
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 ##
 
