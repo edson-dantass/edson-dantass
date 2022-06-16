@@ -1,4 +1,4 @@
-## 💻 Olá, meu nome é <strong>Edson Dantas!</strong>
+## 🚀 Olá, meu nome é <strong>Edson Dantas!</strong>
 
 >  Estou sempre estudando JavaScript, ReactJS, TypeScript, NodeJS
 
@@ -27,4 +27,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+##
+
+<a href="https://www.linkedin.com/in/edson-dantas-a29846209/" target="_blank">
+ <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+</a>
+<a href="https://instagram.com/edson.dantass?igshid=YmMyMTA2M2Y=" target="_blank">
+ <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" />
+</a>
  
