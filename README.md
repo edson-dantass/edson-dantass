@@ -27,5 +27,5 @@
 
 <p>
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=edson-dantass&show_icons=true&theme=tokyonight" alt="Edson Dantas stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-dantass&layout=compact&theme=tokyonight" alt="Edson Dantas Top Langs"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-dantass&layout=compact&theme=tokyonight" alt="Edson Dantas Top Langs"/>
  </p>
